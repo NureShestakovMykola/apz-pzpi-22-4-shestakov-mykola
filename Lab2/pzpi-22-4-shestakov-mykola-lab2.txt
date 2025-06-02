@@ -1,279 +1,278 @@
-Міністерство освіти і науки України 
-Харківський національний університет радіоелектроніки
-Кафедра програмної інженерії
-
-
-
-
-ЗВІТ
-З лабораторна робота
-з дисципліни: «Архітектура програмного забезпечення»
-на тему: «Розробка мобільного застосунку»
+п»їРњС–РЅС–СЃС‚РµСЂСЃС‚РІРѕ РѕСЃРІС–С‚Рё С– РЅР°СѓРєРё РЈРєСЂР°С—РЅРё 
+РҐР°СЂРєС–РІСЃСЊРєРёР№ РЅР°С†С–РѕРЅР°Р»СЊРЅРёР№ СѓРЅС–РІРµСЂСЃРёС‚РµС‚ СЂР°РґС–РѕРµР»РµРєС‚СЂРѕРЅС–РєРё
+РљР°С„РµРґСЂР° РїСЂРѕРіСЂР°РјРЅРѕС— С–РЅР¶РµРЅРµСЂС–С—
 
 
 
 
 
-
-                                   Виконав 
-                                   ст. гр. ПЗПІ-22-4
-                                   Шестаков Микола Саркісович
-                                   
-                                   Перевірив
-                                   асистент кафедри ПІ
-                                   Дашенков Дмитро Сергійович
+Р›Р°Р±РѕСЂР°С‚РѕСЂРЅР° СЂРѕР±РѕС‚Р°
+Р· РґРёСЃС†РёРїР»С–РЅРё: В«РђСЂС…С–С‚РµРєС‚СѓСЂР° РїСЂРѕРіСЂР°РјРЅРѕРіРѕ Р·Р°Р±РµР·РїРµС‡РµРЅРЅСЏВ»
+РЅР° С‚РµРјСѓ: В«Р РѕР·СЂРѕР±РєР° РјРѕР±С–Р»СЊРЅРѕРіРѕ Р·Р°СЃС‚РѕСЃСѓРЅРєСѓВ»
 
 
 
 
 
-Харків 2025
-1 ІСТОРІЯ ЗМІН
 
-№ДатаВерсія звітуОпис змін та виправлень112.05.20250.1Створено розділ «Завдання»215.05.20250.2Створено розділ «Опис виконаної роботи» 316.05.20250.3Додано графічні матеріали420.05.20250.4Заповнення додатку Б з програмним кодом
+Р’РёРєРѕРЅР°РІ 
+СЃС‚. РіСЂ. РџР—РџР†-22-4
+РЁРµСЃС‚Р°РєРѕРІ РњРёРєРѕР»Р° РЎР°СЂРєС–СЃРѕРІРёС‡
 
-1 ЗАВДАННЯ
-
-	Завданням роботи є розробити мобільний програмний застосунок для будь-якої поширеної на сьогодні мобільної платформи для програмної системи для автоматичного догляду за рослинами GrowMate, а також побудувати UML діаграми прецедентів, компонентів, діяльності та пакетів для нього.
-
-2 ОПИС ВИКОНАНОЇ РОБОТИ
-
-	Виконання лабораторної роботи включало:
-     1. Побудову UML діаграми прецедентів (див. Додаток А);
-     2. Побудову UML діаграми компонентів (див. Додаток А);
-     3. Побудову UML діаграми діяльності (див. Додаток А);
-     4. Побудову UML діаграми пакетів (див. Додаток А);
-     5. Розробку мобільного додатку для мобільної платформи Android на мові програмування Kotlin. Мобільний додаток надає користувачам системи обмежений функціонал для екстреного управління нею та включає функції вказані в Vision & Scope документі програмної системи (вхід в систему, перегляд списку девайсів, перегляд інформації про певний девайс, відправку запиту на полив). Під час розробки мобільного додатку використовувалася середа розробки Android Studio. Для зв’язку з сервером використовувалася бібліотека Retrofit а також Dev Tunnels (на боці серверу). Під час розробки мобільного додатку до серверної частини системи було внесено певні зміни – для підтримання отримання даних від серверу в мобільному додатку в грамотному форматі, а також для грамотнішої організації сесій у фреймворці багатоплатформеності (тепер початі та завершені сесії зберігаються в базі даних, а не в cookies браузеру).
+РџРµСЂРµРІС–СЂРёРІ
+СЃС‚. РІРёРєР»Р°РґР°С‡ РєР°С‚РµРґСЂРё РџР†
+РЎРѕРєРѕСЂС‡СѓРє Р†РіРѕСЂ РџРµС‚СЂРѕРІРёС‡
 
 
-ВИСНОВКИ
-
-     В ході виконання лабораторної роботи було створено UML діаграми прецедентів, компонентів, діяльності та пакетів.
-     Для розробки мобільного додатку використовувалися середа розробки Android Studio та мова програмування Kotlin. Додаток розроблявся під мобільну платформу Android.
 
 
-     ДОДАТОК А
-     Графічні матеріали
-     
-     
-     Рисунок А.1 — UML-діаграма прецедентів
-     
-     
-     Рисунок А.2 — UML-діаграма компонентів
+РҐР°СЂРєС–РІ 2025
 
-     
-     Рисунок А.3 — UML-діаграма діяльності
-     
-     
-     Рисунок А.4 — UML-діаграма пакетів
-     
+1 Р†РЎРўРћР Р†РЇ Р—РњР†Рќ
 
+в„–	Р”Р°С‚Р°	Р’РµСЂСЃС–СЏ Р·РІС–С‚Сѓ	РћРїРёСЃ Р·РјС–РЅ С‚Р° РІРёРїСЂР°РІР»РµРЅСЊ
+1	11.05.2025	0.1	РЎС‚РІРѕСЂРµРЅРѕ СЂРѕР·РґС–Р» В«Р—Р°РІРґР°РЅРЅСЏВ»
+2	14.05.2025	0.2	РЎС‚РІРѕСЂРµРЅРѕ СЂРѕР·РґС–Р» В«РћРїРёСЃ РІРёРєРѕРЅР°РЅРѕС— СЂРѕР±РѕС‚РёВ»
+3	16.05.2025	0.3	Р”РѕРґР°РЅРѕ РіСЂР°С„С–С‡РЅС– РјР°С‚РµСЂС–Р°Р»Рё
+4	20.05.2025	0.4	Р—Р°РїРѕРІРЅРµРЅРЅСЏ РґРѕРґР°С‚РєСѓ Р‘ Р· РїСЂРѕРіСЂР°РјРЅРёРј РєРѕРґРѕРј
 
-     ДОДАТОК Б
-     Програмний код
-     
-     Б.1 Взаємодія з сервером (інтерфейс із запитами)
-     GitHub репозиторій: ApiService.kt
-     
-       1 interface ApiService {
-       2     @POST("appUser/login")
-       3     fun login(@Body model: LoginModel): Call<ApiResponse<String>> // token
-       4 
-       5     @POST("appUser/logout")
-       6     fun logout(@Header("Authorization") token: String):
-       7             Call<ApiResponse<String>>
-       8 
-       9     @GET("appUser/current-user")
-       10     fun getUser(
-       11         @Header("Authorization") token: String
-       12     ): Call<ApiResponse<UserModel>>
-       13 
-       14     @GET("device/all")
-       15     fun getDevices(@Header("Authorization") token: String):
-       16             Call<ApiListResponse<DeviceListItemModel>>
-       17 
-       18     @GET("device/{id}")
-       19     fun getDevice(
-       20         @Header("Authorization") token: String,
-       21         @Path("id") id: Int
-       22     ): Call<ApiResponse<DeviceModel>>
-       23 
-       24     @GET("device/{id}/image")
-       25     fun getDeviceImage(
-       26         @Header("Authorization") token: String,
-       27         @Path("id") id: Int
-       28     ): Call<ResponseBody>
-       29 
-       30     @POST("device/manual-watering-request")
-       31     fun manualWateringRequest(@Body model: ManualWateringRequestModel):
-       32             Call<ApiResponse<String>>
-       33 }
-     
-     Б.2 Взаємодія з сервером (Retrofit-клієнт)
-     GitHub репозиторій: RetrofitClient.kt
-     
-       1 object RetrofitClient {
-       2     private const val BASE_URL = "https://18f49xqj-7041.uks1.devtunnels.ms/api/"
-       3 
-       4     private val logging = HttpLoggingInterceptor().apply {
-       5         setLevel(HttpLoggingInterceptor.Level.BODY)
-       6     }
-       7 
-       8     private val client = OkHttpClient.Builder()
-       9         .addInterceptor(logging)
-       10         .build()
-       11 
-       12     val instance: ApiService by lazy {
-       13         Retrofit.Builder()
-       14             .baseUrl(BASE_URL)
-       15             .addConverterFactory(GsonConverterFactory.create())
-       16             .client(client)
-       17             .build()
-       18             .create(ApiService::class.java)
-       19     }
-       20 }
-     
-     Б.3 Взаємодія з сервером (отримання даних через Retrofit-клієнт)
-     GitHub репозиторій: DeviceDetailViewModel.kt
-     
-       1 fun fetchDevice() {
-       2     val call = RetrofitClient.instance.getDevice("Bearer $token", deviceId)
-       3 
-       4     call.enqueue(object : Callback<ApiResponse<DeviceModel>> {
-       5         override fun onResponse(call: Call<ApiResponse<DeviceModel>>,
-       6                                 response: Response<ApiResponse<DeviceModel>>) {
-       7             if (response.isSuccessful && response.body() != null) {
-       8                 _device.postValue(Result.success(response.body()!!.data!!))
-       9             } else {
-       10                 val error = response.errorBody()?.string() ?: "Failed to load device"
-       11                 _device.postValue(Result.failure(Exception(error)))
-       12             }
-       13         }
-       14 
-       15         override fun onFailure(call: Call<ApiResponse<DeviceModel>>, t: Throwable) {
-       16             _device.postValue(Result.failure(t))
-       17         }
-       18     })
-       19 }
-     
-     Б.4 Фрагмент із деталями про девайс (отримання даних з серверу та оновлення користувацького виводу)
-     GitHub репозиторій: DeviceDetailFragment.kt
-     
-       1 class DeviceDetailFragment : Fragment() {
-       2     private lateinit var viewModel: DeviceDetailViewModel
-       3 
-       4     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
-       5         val view = inflater.inflate(R.layout.fragment_device_detail, container, false)
-       6         val nameText: TextView = view.findViewById(R.id.text_device_name)
-       7         val descriptionText: TextView = view.findViewById(R.id.text_device_description)
-       8         val automaticWateringText: TextView = view.findViewById(R.id.text_device_automatic_watering_value)
-       9         val waterLevelText: TextView = view.findViewById(R.id.text_device_water_level_value)
-       10         val lastWateringText: TextView = view.findViewById(R.id.text_device_last_watering_value)
-       11         val moistureText: TextView = view.findViewById(R.id.text_device_moisture_value)
-       12         val tempText: TextView = view.findViewById(R.id.text_device_temp_value)
-       13         val criticalMinMoistureText: TextView = view.findViewById(R.id.text_device_critical_min_moisture)
-       14         val criticalMaxMoistureText: TextView = view.findViewById(R.id.text_device_critical_max_moisture)
-       15         val criticalMinTempText: TextView = view.findViewById(R.id.text_device_critical_min_temp)
-       16         val criticalMaxTempText: TextView = view.findViewById(R.id.text_device_critical_max_temp)
-       17         val wateringButton: Button = view.findViewById(R.id.button_watering)
-       18         val imageDevice: ImageView = view.findViewById(R.id.image_device)
-       19 
-       20         val id = arguments?.getInt("deviceId") ?: return view
-       21         val token = AuthManager.getToken(requireContext()) ?: return view
-       22 
-       23         viewModel = ViewModelProvider(this)[DeviceDetailViewModel::class.java]
-       24         viewModel.deviceId = id
-       25         viewModel.token = token
-       26 
-       27         viewModel.fetchDevice()
-       28 
-       29         viewModel.device.observe(viewLifecycleOwner) { result ->
-       30             result.onSuccess {
-       31                 nameText.text = it.name
-       32                 descriptionText.text = it.description
-       33                 automaticWateringText.text = if (it.automaticWatering) "ON" else "OFF"
-       34                 waterLevelText.text = "${it.waterLevel}%"
-       35                 lastWateringText.text = it.lastWatering
-       36                 moistureText.text = "${it.currentMoisture}%"
-       37                 tempText.text = "${it.currentTemperature}°C"
-       38                 criticalMinMoistureText.text = "${it.criticalMinMoisture}%"
-       39                 criticalMaxMoistureText.text = "${it.criticalMaxMoisture}%"
-       40                 criticalMinTempText.text = "${it.criticalMinTemperature}°C"
-       41                 criticalMaxTempText.text = "${it.criticalMaxTemperature}°C"
-       42                 wateringButton.setOnClickListener {
-       43                     val dialogView = LayoutInflater.from(requireContext()).inflate(R.layout.dialog_watering_duration, null)
-       44                     val inputField = dialogView.findViewById<EditText>(R.id.input_watering_duration)
-       45 
-       46                     AlertDialog.Builder(requireContext())
-       47                         .setTitle("Enter Data")
-       48                         .setView(dialogView)
-       49                         .setPositiveButton("Confirm") { dialog, _ ->
-       50                             val duration = inputField.text.toString().toIntOrNull()
-       51                             if (duration != null) {
-       52                                 viewModel.scheduleWatering(duration)
-       53                             } else {
-       54                                 Toast.makeText(context, "Invalid input", Toast.LENGTH_SHORT).show()
-       55                             }
-       56                             dialog.dismiss()
-       57                         }
-       58                         .setNegativeButton("Cancel") { dialog, _ ->
-       59                             dialog.dismiss()
-       60                         }
-       61                         .show()
-       62                 }
-       63 
-       64                 if (it.imageExtension != null) {
-       65                     viewModel.fetchDeviceImage()
-       66                 }
-       67             }
-       68             result.onFailure {
-       69                 Toast.makeText(context, "Failed to load device", Toast.LENGTH_SHORT).show()
-       70             }
-       71         }
-       72 
-       73         viewModel.deviceImage.observe(viewLifecycleOwner) { result ->
-       74             result.onSuccess {
-       75                 imageDevice.setImageBitmap(it)
-       76             }
-       77             result.onFailure {
-       78                 Toast.makeText(context, "Failed to load device image", Toast.LENGTH_SHORT).show()
-       79             }
-       80         }
-       81 
-       82         viewModel.wateringRequestResult.observe(viewLifecycleOwner) { result ->
-       83             result.onSuccess {
-       84                 Toast.makeText(context, "Watering request sent", Toast.LENGTH_SHORT).show()
-       85             }
-       86             result.onFailure {
-       87                 Toast.makeText(context, "Failed to send watering request", Toast.LENGTH_SHORT)
-       88                     .show()
-       89             }
-       90         }
-       91 
-       92         return view
-       93     }
-       94 }
-     
-     Б.5 Менеджмент токену сесії
-     GitHub репозиторій: AuthManager.kt
-     
-       1 object AuthManager {
-       2     fun getToken(context: Context): String? =
-       3         context.getSharedPreferences("auth", Context.MODE_PRIVATE).getString("token", null)
-       4 
-       5     fun setToken(context: Context, token: String) {
-       6         context.getSharedPreferences("auth", Context.MODE_PRIVATE).edit() {
-       7             putString(
-       8                 "token",
-       9                 token
-       10             )
-       11         }
-       12     }
-       13 
-       14     fun clear(context: Context) {
-       15         context.getSharedPreferences("auth", Context.MODE_PRIVATE).edit() { clear() }
-       16     }
-       17 }
-2
+1 Р—РђР’Р”РђРќРќРЇ
+
+	Р—Р°РІРґР°РЅРЅСЏРј СЂРѕР±РѕС‚Рё С” СЂРѕР·СЂРѕР±РёС‚Рё РјРѕР±С–Р»СЊРЅРёР№ РїСЂРѕРіСЂР°РјРЅРёР№ Р·Р°СЃС‚РѕСЃСѓРЅРѕРє РґР»СЏ Р±СѓРґСЊ-СЏРєРѕС— РїРѕС€РёСЂРµРЅРѕС— РЅР° СЃСЊРѕРіРѕРґРЅС– РјРѕР±С–Р»СЊРЅРѕС— РїР»Р°С‚С„РѕСЂРјРё РґР»СЏ РїСЂРѕРіСЂР°РјРЅРѕС— СЃРёСЃС‚РµРјРё РґР»СЏ Р°РІС‚РѕРјР°С‚РёС‡РЅРѕРіРѕ РґРѕРіР»СЏРґСѓ Р·Р° СЂРѕСЃР»РёРЅР°РјРё GrowMate, Р° С‚Р°РєРѕР¶ РїРѕР±СѓРґСѓРІР°С‚Рё UML РґС–Р°РіСЂР°РјРё РїСЂРµС†РµРґРµРЅС‚С–РІ, РєРѕРјРїРѕРЅРµРЅС‚С–РІ, РґС–СЏР»СЊРЅРѕСЃС‚С– С‚Р° РїР°РєРµС‚С–РІ РґР»СЏ РЅСЊРѕРіРѕ.
+
+2 РћРџРРЎ Р’РРљРћРќРђРќРћР‡ Р РћР‘РћРўР
+
+	Р’РёРєРѕРЅР°РЅРЅСЏ Р»Р°Р±РѕСЂР°С‚РѕСЂРЅРѕС— СЂРѕР±РѕС‚Рё РІРєР»СЋС‡Р°Р»Рѕ:
+    1. РџРѕР±СѓРґРѕРІСѓ UML РґС–Р°РіСЂР°РјРё РїСЂРµС†РµРґРµРЅС‚С–РІ (РґРёРІ. Р”РѕРґР°С‚РѕРє Рђ);
+    2. РџРѕР±СѓРґРѕРІСѓ UML РґС–Р°РіСЂР°РјРё РєРѕРјРїРѕРЅРµРЅС‚С–РІ (РґРёРІ. Р”РѕРґР°С‚РѕРє Рђ);
+    3. РџРѕР±СѓРґРѕРІСѓ UML РґС–Р°РіСЂР°РјРё РґС–СЏР»СЊРЅРѕСЃС‚С– (РґРёРІ. Р”РѕРґР°С‚РѕРє Рђ);
+    4. РџРѕР±СѓРґРѕРІСѓ UML РґС–Р°РіСЂР°РјРё РїР°РєРµС‚С–РІ (РґРёРІ. Р”РѕРґР°С‚РѕРє Рђ);
+    5. Р РѕР·СЂРѕР±РєСѓ РјРѕР±С–Р»СЊРЅРѕРіРѕ РґРѕРґР°С‚РєСѓ РґР»СЏ РјРѕР±С–Р»СЊРЅРѕС— РїР»Р°С‚С„РѕСЂРјРё Android РЅР° РјРѕРІС– РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ Kotlin. РњРѕР±С–Р»СЊРЅРёР№ РґРѕРґР°С‚РѕРє РЅР°РґР°С” РєРѕСЂРёСЃС‚СѓРІР°С‡Р°Рј СЃРёСЃС‚РµРјРё РѕР±РјРµР¶РµРЅРёР№ С„СѓРЅРєС†С–РѕРЅР°Р» РґР»СЏ РµРєСЃС‚СЂРµРЅРѕРіРѕ СѓРїСЂР°РІР»С–РЅРЅСЏ РЅРµСЋ С‚Р° РІРєР»СЋС‡Р°С” С„СѓРЅРєС†С–С— РІРєР°Р·Р°РЅС– РІ Vision & Scope РґРѕРєСѓРјРµРЅС‚С– РїСЂРѕРіСЂР°РјРЅРѕС— СЃРёСЃС‚РµРјРё (РІС…С–Рґ РІ СЃРёСЃС‚РµРјСѓ, РїРµСЂРµРіР»СЏРґ СЃРїРёСЃРєСѓ РґРµРІР°Р№СЃС–РІ, РїРµСЂРµРіР»СЏРґ С–РЅС„РѕСЂРјР°С†С–С— РїСЂРѕ РїРµРІРЅРёР№ РґРµРІР°Р№СЃ, РІС–РґРїСЂР°РІРєСѓ Р·Р°РїРёС‚Сѓ РЅР° РїРѕР»РёРІ). РџС–Рґ С‡Р°СЃ СЂРѕР·СЂРѕР±РєРё РјРѕР±С–Р»СЊРЅРѕРіРѕ РґРѕРґР°С‚РєСѓ РІРёРєРѕСЂРёСЃС‚РѕРІСѓРІР°Р»Р°СЃСЏ СЃРµСЂРµРґР° СЂРѕР·СЂРѕР±РєРё Android Studio. Р”Р»СЏ Р·РІвЂ™СЏР·РєСѓ Р· СЃРµСЂРІРµСЂРѕРј РІРёРєРѕСЂРёСЃС‚РѕРІСѓРІР°Р»Р°СЃСЏ Р±С–Р±Р»С–РѕС‚РµРєР° Retrofit Р° С‚Р°РєРѕР¶ Dev Tunnels (РЅР° Р±РѕС†С– СЃРµСЂРІРµСЂСѓ). РџС–Рґ С‡Р°СЃ СЂРѕР·СЂРѕР±РєРё РјРѕР±С–Р»СЊРЅРѕРіРѕ РґРѕРґР°С‚РєСѓ РґРѕ СЃРµСЂРІРµСЂРЅРѕС— С‡Р°СЃС‚РёРЅРё СЃРёСЃС‚РµРјРё Р±СѓР»Рѕ РІРЅРµСЃРµРЅРѕ РїРµРІРЅС– Р·РјС–РЅРё вЂ“ РґР»СЏ РїС–РґС‚СЂРёРјР°РЅРЅСЏ РѕС‚СЂРёРјР°РЅРЅСЏ РґР°РЅРёС… РІС–Рґ СЃРµСЂРІРµСЂСѓ РІ РјРѕР±С–Р»СЊРЅРѕРјСѓ РґРѕРґР°С‚РєСѓ РІ РіСЂР°РјРѕС‚РЅРѕРјСѓ С„РѕСЂРјР°С‚С–, Р° С‚Р°РєРѕР¶ РґР»СЏ РіСЂР°РјРѕС‚РЅС–С€РѕС— РѕСЂРіР°РЅС–Р·Р°С†С–С— СЃРµСЃС–Р№ Сѓ С„СЂРµР№РјРІРѕСЂС†С– Р±Р°РіР°С‚РѕРїР»Р°С‚С„РѕСЂРјРµРЅРѕСЃС‚С– (С‚РµРїРµСЂ РїРѕС‡Р°С‚С– С‚Р° Р·Р°РІРµСЂС€РµРЅС– СЃРµСЃС–С— Р·Р±РµСЂС–РіР°СЋС‚СЊСЃСЏ РІ Р±Р°Р·С– РґР°РЅРёС…, Р° РЅРµ РІ cookies Р±СЂР°СѓР·РµСЂСѓ).
+
+Р’РРЎРќРћР’РљР
+
+Р’ С…РѕРґС– РІРёРєРѕРЅР°РЅРЅСЏ Р»Р°Р±РѕСЂР°С‚РѕСЂРЅРѕС— СЂРѕР±РѕС‚Рё Р±СѓР»Рѕ СЃС‚РІРѕСЂРµРЅРѕ UML РґС–Р°РіСЂР°РјРё РїСЂРµС†РµРґРµРЅС‚С–РІ, РєРѕРјРїРѕРЅРµРЅС‚С–РІ, РґС–СЏР»СЊРЅРѕСЃС‚С– С‚Р° РїР°РєРµС‚С–РІ.
+Р”Р»СЏ СЂРѕР·СЂРѕР±РєРё РјРѕР±С–Р»СЊРЅРѕРіРѕ РґРѕРґР°С‚РєСѓ РІРёРєРѕСЂРёСЃС‚РѕРІСѓРІР°Р»РёСЃСЏ СЃРµСЂРµРґР° СЂРѕР·СЂРѕР±РєРё Android Studio С‚Р° РјРѕРІР° РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ Kotlin. Р”РѕРґР°С‚РѕРє СЂРѕР·СЂРѕР±Р»СЏРІСЃСЏ РїС–Рґ РјРѕР±С–Р»СЊРЅСѓ РїР»Р°С‚С„РѕСЂРјСѓ Android.
 
 
+Р”РћР”РђРўРћРљ Рђ
+Р“СЂР°С„С–С‡РЅС– РјР°С‚РµСЂС–Р°Р»Рё
+
+
+Р РёСЃСѓРЅРѕРє Рђ.1 вЂ” UML-РґС–Р°РіСЂР°РјР° РїСЂРµС†РµРґРµРЅС‚С–РІ
+
+
+Р РёСЃСѓРЅРѕРє Рђ.2 вЂ” UML-РґС–Р°РіСЂР°РјР° РєРѕРјРїРѕРЅРµРЅС‚С–РІ
+
+
+Р РёСЃСѓРЅРѕРє Рђ.3 вЂ” UML-РґС–Р°РіСЂР°РјР° РґС–СЏР»СЊРЅРѕСЃС‚С–
+
+
+Р РёСЃСѓРЅРѕРє Рђ.4 вЂ” UML-РґС–Р°РіСЂР°РјР° РїР°РєРµС‚С–РІ
+
+
+Р”РћР”РђРўРћРљ Р‘
+РџСЂРѕРіСЂР°РјРЅРёР№ РєРѕРґ
+
+Р‘.1 Р’Р·Р°С”РјРѕРґС–СЏ Р· СЃРµСЂРІРµСЂРѕРј (С–РЅС‚РµСЂС„РµР№СЃ С–Р· Р·Р°РїРёС‚Р°РјРё)
+GitHub СЂРµРїРѕР·РёС‚РѕСЂС–Р№: ApiService.kt
+
+1 interface ApiService {
+2     @POST("appUser/login")
+3     fun login(@Body model: LoginModel): Call<ApiResponse<String>> // token
+4 
+5     @POST("appUser/logout")
+6     fun logout(@Header("Authorization") token: String):
+7             Call<ApiResponse<String>>
+8 
+9     @GET("appUser/current-user")
+10     fun getUser(
+11         @Header("Authorization") token: String
+12     ): Call<ApiResponse<UserModel>>
+13 
+14     @GET("device/all")
+15     fun getDevices(@Header("Authorization") token: String):
+16             Call<ApiListResponse<DeviceListItemModel>>
+17 
+18     @GET("device/{id}")
+19     fun getDevice(
+20         @Header("Authorization") token: String,
+21         @Path("id") id: Int
+22     ): Call<ApiResponse<DeviceModel>>
+23 
+24     @GET("device/{id}/image")
+25     fun getDeviceImage(
+26         @Header("Authorization") token: String,
+27         @Path("id") id: Int
+28     ): Call<ResponseBody>
+29 
+30     @POST("device/manual-watering-request")
+31     fun manualWateringRequest(@Body model: ManualWateringRequestModel):
+32             Call<ApiResponse<String>>
+33 }
+
+Р‘.2 Р’Р·Р°С”РјРѕРґС–СЏ Р· СЃРµСЂРІРµСЂРѕРј (Retrofit-РєР»С–С”РЅС‚)
+GitHub СЂРµРїРѕР·РёС‚РѕСЂС–Р№: RetrofitClient.kt
+
+1 object RetrofitClient {
+2     private const val BASE_URL = "https://18f49xqj-7041.uks1.devtunnels.ms/api/"
+3 
+4     private val logging = HttpLoggingInterceptor().apply {
+5         setLevel(HttpLoggingInterceptor.Level.BODY)
+6     }
+7 
+8     private val client = OkHttpClient.Builder()
+9         .addInterceptor(logging)
+10         .build()
+11 
+12     val instance: ApiService by lazy {
+13         Retrofit.Builder()
+14             .baseUrl(BASE_URL)
+15             .addConverterFactory(GsonConverterFactory.create())
+16             .client(client)
+17             .build()
+18             .create(ApiService::class.java)
+19     }
+20 }
+
+Р‘.3 Р’Р·Р°С”РјРѕРґС–СЏ Р· СЃРµСЂРІРµСЂРѕРј (РѕС‚СЂРёРјР°РЅРЅСЏ РґР°РЅРёС… С‡РµСЂРµР· Retrofit-РєР»С–С”РЅС‚)
+GitHub СЂРµРїРѕР·РёС‚РѕСЂС–Р№: DeviceDetailViewModel.kt
+
+1 fun fetchDevice() {
+2     val call = RetrofitClient.instance.getDevice("Bearer $token", deviceId)
+3 
+4     call.enqueue(object : Callback<ApiResponse<DeviceModel>> {
+5         override fun onResponse(call: Call<ApiResponse<DeviceModel>>,
+6                                 response: Response<ApiResponse<DeviceModel>>) {
+7             if (response.isSuccessful && response.body() != null) {
+8                 _device.postValue(Result.success(response.body()!!.data!!))
+9             } else {
+10                 val error = response.errorBody()?.string() ?: "Failed to load device"
+11                 _device.postValue(Result.failure(Exception(error)))
+12             }
+13         }
+14 
+15         override fun onFailure(call: Call<ApiResponse<DeviceModel>>, t: Throwable) {
+16             _device.postValue(Result.failure(t))
+17         }
+18     })
+19 }
+
+Р‘.4 Р¤СЂР°РіРјРµРЅС‚ С–Р· РґРµС‚Р°Р»СЏРјРё РїСЂРѕ РґРµРІР°Р№СЃ (РѕС‚СЂРёРјР°РЅРЅСЏ РґР°РЅРёС… Р· СЃРµСЂРІРµСЂСѓ С‚Р° РѕРЅРѕРІР»РµРЅРЅСЏ РєРѕСЂРёСЃС‚СѓРІР°С†СЊРєРѕРіРѕ РІРёРІРѕРґСѓ)
+GitHub СЂРµРїРѕР·РёС‚РѕСЂС–Р№: DeviceDetailFragment.kt
+
+1 class DeviceDetailFragment : Fragment() {
+2     private lateinit var viewModel: DeviceDetailViewModel
+3 
+4     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
+5         val view = inflater.inflate(R.layout.fragment_device_detail, container, false)
+6         val nameText: TextView = view.findViewById(R.id.text_device_name)
+7         val descriptionText: TextView = view.findViewById(R.id.text_device_description)
+8         val automaticWateringText: TextView = view.findViewById(R.id.text_device_automatic_watering_value)
+9         val waterLevelText: TextView = view.findViewById(R.id.text_device_water_level_value)
+10         val lastWateringText: TextView = view.findViewById(R.id.text_device_last_watering_value)
+11         val moistureText: TextView = view.findViewById(R.id.text_device_moisture_value)
+12         val tempText: TextView = view.findViewById(R.id.text_device_temp_value)
+13         val criticalMinMoistureText: TextView = view.findViewById(R.id.text_device_critical_min_moisture)
+14         val criticalMaxMoistureText: TextView = view.findViewById(R.id.text_device_critical_max_moisture)
+15         val criticalMinTempText: TextView = view.findViewById(R.id.text_device_critical_min_temp)
+16         val criticalMaxTempText: TextView = view.findViewById(R.id.text_device_critical_max_temp)
+17         val wateringButton: Button = view.findViewById(R.id.button_watering)
+18         val imageDevice: ImageView = view.findViewById(R.id.image_device)
+19 
+20         val id = arguments?.getInt("deviceId") ?: return view
+21         val token = AuthManager.getToken(requireContext()) ?: return view
+22 
+23         viewModel = ViewModelProvider(this)[DeviceDetailViewModel::class.java]
+24         viewModel.deviceId = id
+25         viewModel.token = token
+26 
+27         viewModel.fetchDevice()
+28 
+29         viewModel.device.observe(viewLifecycleOwner) { result ->
+30             result.onSuccess {
+31                 nameText.text = it.name
+32                 descriptionText.text = it.description
+33                 automaticWateringText.text = if (it.automaticWatering) "ON" else "OFF"
+34                 waterLevelText.text = "${it.waterLevel}%"
+35                 lastWateringText.text = it.lastWatering
+36                 moistureText.text = "${it.currentMoisture}%"
+37                 tempText.text = "${it.currentTemperature}В°C"
+38                 criticalMinMoistureText.text = "${it.criticalMinMoisture}%"
+39                 criticalMaxMoistureText.text = "${it.criticalMaxMoisture}%"
+40                 criticalMinTempText.text = "${it.criticalMinTemperature}В°C"
+41                 criticalMaxTempText.text = "${it.criticalMaxTemperature}В°C"
+42                 wateringButton.setOnClickListener {
+43                     val dialogView = LayoutInflater.from(requireContext()).inflate(R.layout.dialog_watering_duration, null)
+44                     val inputField = dialogView.findViewById<EditText>(R.id.input_watering_duration)
+45 
+46                     AlertDialog.Builder(requireContext())
+47                         .setTitle("Enter Data")
+48                         .setView(dialogView)
+49                         .setPositiveButton("Confirm") { dialog, _ ->
+50                             val duration = inputField.text.toString().toIntOrNull()
+51                             if (duration != null) {
+52                                 viewModel.scheduleWatering(duration)
+53                             } else {
+54                                 Toast.makeText(context, "Invalid input", Toast.LENGTH_SHORT).show()
+55                             }
+56                             dialog.dismiss()
+57                         }
+58                         .setNegativeButton("Cancel") { dialog, _ ->
+59                             dialog.dismiss()
+60                         }
+61                         .show()
+62                 }
+63 
+64                 if (it.imageExtension != null) {
+65                     viewModel.fetchDeviceImage()
+66                 }
+67             }
+68             result.onFailure {
+69                 Toast.makeText(context, "Failed to load device", Toast.LENGTH_SHORT).show()
+70             }
+71         }
+72 
+73         viewModel.deviceImage.observe(viewLifecycleOwner) { result ->
+74             result.onSuccess {
+75                 imageDevice.setImageBitmap(it)
+76             }
+77             result.onFailure {
+78                 Toast.makeText(context, "Failed to load device image", Toast.LENGTH_SHORT).show()
+79             }
+80         }
+81 
+82         viewModel.wateringRequestResult.observe(viewLifecycleOwner) { result ->
+83             result.onSuccess {
+84                 Toast.makeText(context, "Watering request sent", Toast.LENGTH_SHORT).show()
+85             }
+86             result.onFailure {
+87                 Toast.makeText(context, "Failed to send watering request", Toast.LENGTH_SHORT)
+88                     .show()
+89             }
+90         }
+91 
+92         return view
+93     }
+94 }
+
+Р‘.5 РњРµРЅРµРґР¶РјРµРЅС‚ С‚РѕРєРµРЅСѓ СЃРµСЃС–С—
+GitHub СЂРµРїРѕР·РёС‚РѕСЂС–Р№: AuthManager.kt
+
+1 object AuthManager {
+2     fun getToken(context: Context): String? =
+3         context.getSharedPreferences("auth", Context.MODE_PRIVATE).getString("token", null)
+4 
+5     fun setToken(context: Context, token: String) {
+6         context.getSharedPreferences("auth", Context.MODE_PRIVATE).edit() {
+7             putString(
+8                 "token",
+9                 token
+10             )
+11         }
+12     }
+13 
+14     fun clear(context: Context) {
+15         context.getSharedPreferences("auth", Context.MODE_PRIVATE).edit() { clear() }
+16     }
+17 }
