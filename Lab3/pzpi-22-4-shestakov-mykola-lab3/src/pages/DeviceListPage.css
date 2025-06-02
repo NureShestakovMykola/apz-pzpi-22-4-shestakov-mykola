@@ -1,0 +1,52 @@
+.device-list-container {
+    width: 90%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.page-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.device-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.device-item {
+    background-color: #AFADC0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.device-link {
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+    .device-link:hover {
+        text-decoration: underline;
+    }
+
+.register-button-container {
+    margin-top: 20px;
+}
+
+.register-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .register-button:hover {
+        background-color: #0056b3;
+    }

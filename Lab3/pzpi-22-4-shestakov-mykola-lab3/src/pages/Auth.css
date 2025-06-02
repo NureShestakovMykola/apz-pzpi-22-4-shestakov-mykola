@@ -1,0 +1,28 @@
+.auth-component {
+	width: 90%;
+	max-width: 600px;
+	margin: 40px auto;
+	background: #fff;
+	padding: 24px;
+	color: black;
+	border-radius: 8px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	align-content: center;
+}
+
+.auth-form input {
+	width: -webkit-fill-available;
+	padding: 8px;
+	margin-top: 4px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.button-wrapper {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.button-wrapper button {
+	padding-inline: 50px;
+}

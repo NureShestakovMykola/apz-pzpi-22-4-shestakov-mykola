@@ -1,0 +1,47 @@
+.edit-account-container {
+    width: 90%;
+    max-width: 600px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 24px;
+    color: black;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.edit-account-form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.edit-account-form input,
+.edit-account-form textarea {
+    width: -webkit-fill-available;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.inline-inputs {
+    display: flex;
+    gap: 10px;
+}
+
+    .inline-inputs input {
+        flex: 1;
+    }
+
+.image-preview {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.preview-img {
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: contain;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

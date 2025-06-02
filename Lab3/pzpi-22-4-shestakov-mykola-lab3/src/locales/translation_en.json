@@ -1,0 +1,163 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "appName": "GrowMate"
+  },
+  "changePassword": {
+    "title": "Change Password",
+    "oldPassword": "Old password",
+    "newPassword": "New password",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "success": "Password was changed successfully",
+    "error": "An error occurred"
+  },
+  "schedule": {
+    "createTitle": "Create New Schedule",
+    "name": "Name",
+    "description": "Description",
+    "duration": "Duration (minutes)",
+    "wateringTime": "Watering Time",
+    "scheduleType": "Schedule Type",
+    "type": {
+      "daily": "Daily",
+      "interval": "Interval",
+      "daysOfWeek": "Days of Week"
+    },
+    "daysGap": "Days Gap",
+    "selectDays": "Select Days",
+    "selectTitle": "Select Schedule"
+  },
+  "days": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+  "common": {
+    "create": "Create",
+    "cancel": "Cancel"
+  },
+  "appName": "GrowMate",
+  "nav": {
+    "devices": "Devices",
+    "notifications": "Notifications"
+  },
+  "alt": {
+    "profile": "profile"
+  },
+  "registerDevice": {
+    "title": "Register New Device"
+  },
+  "form": {
+    "name": "Name",
+    "description": "Description"
+  },
+  "button": {
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "createNewSchedule": "Create New Schedule",
+    "close": "Close",
+    "editAccount": "Edit Account",
+    "changePassword": "Change Password",
+    "logout": "Logout",
+    "edit": "Edit",
+    "wateringHistory": "Watering History",
+    "soilMoistureHistory": "Soil Moisture History"
+  },
+  "loading": "Loading...",
+  "account": {
+    "accountInformation": "Account Information",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email"
+  },
+  "device": {
+    "noImage": "No Image",
+    "description": "Description",
+    "noDescription": "No description available",
+    "automaticWatering": "Automatic Watering",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "currentMoisture": "Current Moisture",
+    "currentTemperature": "Current Temperature",
+    "waterLevel": "Water Level",
+    "lastWatering": "Last Watering",
+    "notAvailable": "N/A",
+    "moistureChartTitle": "Moisture",
+    "wateringHistory": "Watering History"
+  },
+  "deviceList": {
+    "title": "Device List",
+    "registerButton": "Register New Device"
+  },
+  "editAccount": {
+    "title": "Edit Account",
+    "nameLabel": "Name",
+    "surnameLabel": "Surname",
+    "newImageLabel": "New Image (optional)",
+    "saveButton": "Save Changes",
+    "cancelButton": "Cancel",
+    "updateFailed": "Update failed."
+  },
+  "editDevice": {
+    "title": "Edit Device",
+    "name": "Name",
+    "description": "Description",
+    "criticalMoisture": "Critical Moisture (Min - Max)",
+    "criticalTemperature": "Critical Temperature (Min - Max)",
+    "turnAutoWateringOn": "Turn automatic watering ON",
+    "turnAutoWateringOff": "Turn automatic watering OFF",
+    "noSchedule": "No schedule selected.",
+    "chooseSchedule": "Choose Schedule",
+    "newImage": "New Image (optional)",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "schedule": "Schedule",
+    "scheduleDescription": "Description",
+    "scheduleDuration": "Duration",
+    "scheduleTime": "Watering Time",
+    "scheduleType": "Type",
+    "scheduleGap": "Days Gap",
+    "scheduleDays": "Days",
+    "loading": "Loading..."
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "button": "Login",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Register",
+    "failed": "Login failed"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "You don't have any notifications yet.",
+    "advice": "Advice",
+    "watered": "{{created}} - Device \"{{deviceName}}\" watered the plant.",
+    "lowWater": "{{created}} - Device \"{{deviceName}}\" has low water level: {{value}}",
+    "temperatureAlert": "{{created}} - Temperature alert from \"{{deviceName}}\": {{value}}C (Allowed: {{min}}C - {{max}}C)",
+    "unknown": "Unknown notification"
+  },
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "password": "Password",
+    "repeatPassword": "Repeat Password",
+    "button": "Register",
+    "errorDefault": "Registration failed",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login"
+  },
+  "home": {
+    "welcome": "Welcome!",
+    "unauthorized": "Unauthorized - please log in."
+  }
+}

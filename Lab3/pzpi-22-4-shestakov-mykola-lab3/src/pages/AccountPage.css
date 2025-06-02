@@ -1,0 +1,33 @@
+.account-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile-info p {
+    margin: 0.2rem 0;
+}
+
+.account-buttons {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
+    .account-buttons button {
+        padding: 0.5rem 1rem;
+        cursor: pointer;
+    }

@@ -1,0 +1,9 @@
+.modal-content-chart {
+	background: white;
+	padding: 20px;
+	padding-right: 40px;
+	border-radius: 8px;
+	width: 400px;
+	color: black;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}

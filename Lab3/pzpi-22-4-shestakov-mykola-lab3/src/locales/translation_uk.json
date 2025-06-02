@@ -1,0 +1,163 @@
+{
+  "auth": {
+    "login": "Увійти",
+    "register": "Реєстрація",
+    "appName": "GrowMate"
+  },
+  "changePassword": {
+    "title": "Змінити пароль",
+    "oldPassword": "Старий пароль",
+    "newPassword": "Новий пароль",
+    "cancel": "Скасувати",
+    "confirm": "Підтвердити",
+    "success": "Пароль успішно змінено",
+    "error": "Сталася помилка"
+  },
+  "schedule": {
+    "createTitle": "Створити новий розклад",
+    "name": "Назва",
+    "description": "Опис",
+    "duration": "Тривалість (хвилин)",
+    "wateringTime": "Час поливу",
+    "scheduleType": "Тип розкладу",
+    "type": {
+      "daily": "Щоденно",
+      "interval": "Інтервал",
+      "daysOfWeek": "Дні тижня"
+    },
+    "daysGap": "Інтервал у днях",
+    "selectDays": "Оберіть дні",
+    "selectTitle": "Вибрати розклад"
+  },
+  "days": {
+    "sun": "Нд",
+    "mon": "Пн",
+    "tue": "Вт",
+    "wed": "Ср",
+    "thu": "Чт",
+    "fri": "Пт",
+    "sat": "Сб"
+  },
+  "common": {
+    "create": "Створити",
+    "cancel": "Скасувати"
+  },
+  "appName": "GrowMate",
+  "nav": {
+    "devices": "Пристрої",
+    "notifications": "Сповіщення"
+  },
+  "alt": {
+    "profile": "профіль"
+  },
+  "registerDevice": {
+    "title": "Зареєструвати новий пристрій"
+  },
+  "form": {
+    "name": "Назва",
+    "description": "Опис"
+  },
+  "button": {
+    "cancel": "Скасувати",
+    "submit": "Підтвердити",
+    "createNewSchedule": "Створити новий розклад",
+    "close": "Закрити",
+    "editAccount": "Редагувати акаунт",
+    "changePassword": "Змінити пароль",
+    "logout": "Вийти",
+    "edit": "Редагувати",
+    "wateringHistory": "Історія поливання",
+    "soilMoistureHistory": "Історія вологості ґрунту"
+  },
+  "loading": "Завантаження...",
+  "account": {
+    "accountInformation": "Інформація про акаунт",
+    "name": "Ім'я",
+    "surname": "Прізвище",
+    "email": "Електронна пошта"
+  },
+  "device": {
+    "noImage": "Немає зображення",
+    "description": "Опис",
+    "noDescription": "Опис відсутній",
+    "automaticWatering": "Автоматичний полив",
+    "enabled": "Увімкнено",
+    "disabled": "Вимкнено",
+    "currentMoisture": "Поточна вологість",
+    "currentTemperature": "Поточна температура",
+    "waterLevel": "Рівень води",
+    "lastWatering": "Останнє поливання",
+    "notAvailable": "Немає даних",
+    "moistureChartTitle": "Вологість",
+    "wateringHistory": "Історія поливання"
+  },
+  "deviceList": {
+    "title": "Список пристроїв",
+    "registerButton": "Зареєструвати новий пристрій"
+  },
+  "editAccount": {
+    "title": "Редагувати обліковий запис",
+    "nameLabel": "Ім'я",
+    "surnameLabel": "Прізвище",
+    "newImageLabel": "Нове фото (не обов'язково)",
+    "saveButton": "Зберегти зміни",
+    "cancelButton": "Скасувати",
+    "updateFailed": "Оновлення не вдалося."
+  },
+  "editDevice": {
+    "editDevice": "Редагувати пристрій",
+    "name": "Назва",
+    "description": "Опис",
+    "criticalMoisture": "Критична вологість (мін - макс)",
+    "criticalTemperature": "Критична температура (мін - макс)",
+    "toggleAutomaticWateringOn": "Увімкнути автоматичний полив",
+    "toggleAutomaticWateringOff": "Вимкнути автоматичний полив",
+    "schedule": "Розклад",
+    "scheduleDescription": "Опис",
+    "durationMinutes": "Тривалість: {{minutes}} хв",
+    "wateringTime": "Час поливу: {{time}}",
+    "scheduleType": "Тип: {{type}}",
+    "daysGap": "Інтервал днів: {{gap}}",
+    "days": "Дні: {{days}}",
+    "noSchedule": "Розклад не вибрано.",
+    "chooseSchedule": "Вибрати розклад",
+    "newImage": "Нове зображення (необов’язково)",
+    "saveChanges": "Зберегти зміни",
+    "cancel": "Скасувати",
+    "loading": "Завантаження..."
+  },
+  "login": {
+    "title": "Вхід",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "button": "Увійти",
+    "noAccount": "Ще не маєте облікового запису?",
+    "registerLink": "Зареєструватися",
+    "failed": "Помилка входу"
+  },
+  "notifications": {
+    "title": "Сповіщення",
+    "empty": "У вас ще немає сповіщень.",
+    "advice": "Порада",
+    "watered": "{{created}} – Пристрій \"{{deviceName}}\" полив рослину.",
+    "lowWater": "{{created}} – У пристрою \"{{deviceName}}\" низький рівень води: {{value}}",
+    "temperatureAlert": "{{created}} – Температурне попередження від \"{{deviceName}}\": {{value}}°C (Допустимо: {{min}}°C - {{max}}°C)",
+    "unknown": "Невідоме сповіщення"
+  },
+  "register": {
+    "title": "Реєстрація",
+    "name": "Ім'я",
+    "surname": "Прізвище",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "repeatPassword": "Повторіть пароль",
+    "button": "Зареєструватися",
+    "errorDefault": "Помилка реєстрації",
+    "haveAccount": "Вже маєте обліковий запис?",
+    "loginLink": "Увійти"
+  },
+  "home": {
+    "welcome": "Ласкаво просимо!",
+    "unauthorized": "Неавторизовано — будь ласка, увійдіть в свій акаунт."
+  }
+}
