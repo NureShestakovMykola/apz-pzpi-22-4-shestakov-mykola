@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\growmate.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\growmate.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\schedule\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\schedule\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\schedule\\schedulelistitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\schedule\\schedulelistitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\schedule\\editschedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\schedule\\editschedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\notification\\postadvicenotificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\notification\\postadvicenotificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\notification\\notificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\notification\\notificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\notification\\advicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\notification\\advicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\moisturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\moisturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\manualwateringrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\manualwateringrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\editdevicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\editdevicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\devicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\devicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\devicelistitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\devicelistitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\createdevicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\createdevicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\device\\createdevicelogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\device\\createdevicelogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\registeradminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\registeradminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\editusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\editusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\models\\appuser\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\models\\appuser\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\databaseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\databaseadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growmate\\growmate\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB37E891-99E9-4C55-8F50-453374D5934F}|GrowMate\\GrowMate.csproj|solutionrelative:growmate\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Program.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Program.cs",
+              "RelativeToolTip": "GrowMate\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:41:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrowMate.http",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\GrowMate.http",
+              "RelativeDocumentMoniker": "GrowMate\\GrowMate.http",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\GrowMate.http",
+              "RelativeToolTip": "GrowMate\\GrowMate.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-06T22:41:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\appsettings.json",
+              "RelativeDocumentMoniker": "GrowMate\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\appsettings.json",
+              "RelativeToolTip": "GrowMate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T22:41:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Services\\EmailService.cs",
+              "RelativeToolTip": "GrowMate\\Services\\EmailService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:41:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScheduleModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Schedule\\ScheduleModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Schedule\\ScheduleModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Schedule\\ScheduleModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Schedule\\ScheduleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleListItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Schedule\\ScheduleListItemModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Schedule\\ScheduleListItemModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Schedule\\ScheduleListItemModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Schedule\\ScheduleListItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditScheduleModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Schedule\\EditScheduleModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Schedule\\EditScheduleModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Schedule\\EditScheduleModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Schedule\\EditScheduleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostAdviceNotificationModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Notification\\PostAdviceNotificationModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Notification\\PostAdviceNotificationModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Notification\\PostAdviceNotificationModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Notification\\PostAdviceNotificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Notification\\NotificationModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Notification\\NotificationModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Notification\\NotificationModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Notification\\NotificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdviceModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Notification\\AdviceModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Notification\\AdviceModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Notification\\AdviceModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Notification\\AdviceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoistureData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\MoistureData.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\MoistureData.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\MoistureData.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\MoistureData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManualWateringRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\ManualWateringRequestModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\ManualWateringRequestModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\ManualWateringRequestModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\ManualWateringRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:08.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditDeviceModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\EditDeviceModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\EditDeviceModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\EditDeviceModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\EditDeviceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:40:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeviceModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\DeviceModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\DeviceModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\DeviceModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\DeviceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:55.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeviceListItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\DeviceListItemModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\DeviceListItemModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\DeviceListItemModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\DeviceListItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateDeviceModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\CreateDeviceModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\CreateDeviceModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\CreateDeviceModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\CreateDeviceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDeviceLogModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\CreateDeviceLogModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\Device\\CreateDeviceLogModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\Device\\CreateDeviceLogModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\Device\\CreateDeviceLogModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:35.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\UserModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\UserModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\UserModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\ResetPasswordModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\ResetPasswordModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\ResetPasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:20.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\RegisterModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterAdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\RegisterAdminModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\RegisterAdminModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\RegisterAdminModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\RegisterAdminModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:39:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\LoginModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\LoginModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:57.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\EditUserModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\EditUserModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\EditUserModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\EditUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:49.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\ChangePasswordModel.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Models\\AppUser\\ChangePasswordModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Models\\AppUser\\ChangePasswordModel.cs",
+              "RelativeToolTip": "GrowMate\\Models\\AppUser\\ChangePasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SetupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\SetupController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\SetupController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\SetupController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\SetupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAowNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:20.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAwwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\GenericController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\GenericController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:38:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAIECAAAAAAAAAAAgwK8CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:37:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatabaseAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\DatabaseAdminController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\DatabaseAdminController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\DatabaseAdminController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\DatabaseAdminController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:37:48.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppUserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\AppUserController.cs",
+              "RelativeDocumentMoniker": "GrowMate\\Controllers\\AppUserController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowMate\\GrowMate\\Controllers\\AppUserController.cs",
+              "RelativeToolTip": "GrowMate\\Controllers\\AppUserController.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAowNoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:37:34.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
