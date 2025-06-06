@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\GrowMate\\Core\\Core.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\apz-pzpi-22-4-shestakov-mykola\\Lab4\\pzpi-22-4-shestakov-mykola-lab4\\GrowMate\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\GrowMate\\Core\\Core.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\apz-pzpi-22-4-shestakov-mykola\\Lab4\\pzpi-22-4-shestakov-mykola-lab4\\GrowMate\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GrowMate\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\apz-pzpi-22-4-shestakov-mykola\\Lab4\\pzpi-22-4-shestakov-mykola-lab4\\GrowMate\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GrowMate\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\apz-pzpi-22-4-shestakov-mykola\\Lab4\\pzpi-22-4-shestakov-mykola-lab4\\GrowMate\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\GrowMate\\Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\apz-pzpi-22-4-shestakov-mykola\\Lab4\\pzpi-22-4-shestakov-mykola-lab4\\GrowMate\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VS)\\NuGetPackages"
