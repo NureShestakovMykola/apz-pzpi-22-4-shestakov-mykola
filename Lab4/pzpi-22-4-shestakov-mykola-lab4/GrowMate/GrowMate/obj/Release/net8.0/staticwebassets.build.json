@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "CKghjnkuDQpHh97s570rLE5izOJIKmDXGR1CZlsbwNk=",
-  "Source": "GrowMate",
-  "BasePath": "_content/GrowMate",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"V7G89F2eqQv+T/K2BzXJekqeHYz99LIRL9Xxsg5bkVs=","Source":"GrowMate","BasePath":"_content/GrowMate","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
