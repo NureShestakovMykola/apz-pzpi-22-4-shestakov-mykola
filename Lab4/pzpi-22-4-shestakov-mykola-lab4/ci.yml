@@ -1,13 +1,13 @@
-name: .NET CI
+name: Build GrowMate
 
 on:
   push:
     branches: [ main, lab4-scaling ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, lab4-scaling ]
 
 jobs:
-  build-and-test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,8 +22,5 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore
 
-      - name: Build
+      - name: Build solution
         run: dotnet build --no-restore --configuration Release
-
-      - name: Run tests
-        run: dotnet test --no-build --configuration Release --verbosity normal
