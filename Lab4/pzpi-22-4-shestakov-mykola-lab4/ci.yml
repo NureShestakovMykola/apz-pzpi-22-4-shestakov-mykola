@@ -17,10 +17,10 @@ jobs:
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '6.0.x'
+          dotnet-version: '9.0.x' 
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore GrowMate.sln
 
       - name: Build solution
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build GrowMate.sln --no-restore --configuration Release
