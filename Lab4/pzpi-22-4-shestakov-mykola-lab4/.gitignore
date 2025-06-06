@@ -1,0 +1,42 @@
+# Visual Studio workspace
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Entity Framework snapshot
+*ApplicationContextModelSnapshot.cs
+
+# Local settings / secrets
+secrets.json
+appsettings.*.json
+
+# Docker overrides and env files (якщо є)
+docker-compose.override.yml
+.env
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
