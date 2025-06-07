@@ -1,0 +1,26 @@
+name: Build GrowMate
+
+on:
+  push:
+    branches: [ main, lab4-scaling ]
+  pull_request:
+    branches: [ main, lab4-scaling ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x' 
+
+      - name: Restore dependencies
+        run: dotnet restore Lab4/pzpi-22-4-shestakov-mykola-lab4/GrowMate.sln
+
+      - name: Build solution
+        run: dotnet build Lab4/pzpi-22-4-shestakov-mykola-lab4/GrowMate.sln --no-restore --configuration Release
