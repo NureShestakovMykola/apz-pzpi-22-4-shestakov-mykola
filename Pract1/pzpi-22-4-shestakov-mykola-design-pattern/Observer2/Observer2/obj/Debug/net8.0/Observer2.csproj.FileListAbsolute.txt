@@ -1,0 +1,14 @@
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\bin\Debug\net8.0\Observer2.exe
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\bin\Debug\net8.0\Observer2.deps.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\bin\Debug\net8.0\Observer2.runtimeconfig.json
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\bin\Debug\net8.0\Observer2.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\bin\Debug\net8.0\Observer2.pdb
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\refint\Observer2.dll
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.pdb
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\Observer2.genruntimeconfig.cache
+C:\Users\vlady\OneDrive\Desktop\Education\University\6 period\Software Architecture\Order\SV98R\Practice\Observer2\Observer2\obj\Debug\net8.0\ref\Observer2.dll

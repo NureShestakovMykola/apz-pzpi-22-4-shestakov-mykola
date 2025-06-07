@@ -1,0 +1,335 @@
+﻿МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ 
+
+ХАРКІВСЬКИЙ НАЦІОНАЛЬНИЙ 
+УНІВЕРСИТЕТ РАДІОЕЛЕКТРОНІКИ 
+
+Кафедра «Програмна інженерія» 
+
+
+ЗВІТ 
+до практичного заняття №1 з дисципліни 
+«Архітектура програмного забезпечення» 
+На тему: «Патерни проєктування»
+
+
+
+
+
+Виконав 
+ст. гр. ПЗПІ-22-4
+Шестаков Микола Саркісович
+
+Перевірив
+ст. викладач катедри ПІ
+Сокорчук Ігор Петрович
+
+
+
+
+Харків 2025
+
+1 ІСТОРІЯ ЗМІН
+
+Таблиця 1 – Історія змін
+№	Дата	Версія звіту	Опис змін та виправлень
+1	30.05.2025	0.1	Створено Word документ звіту, прописано секцію 2 Завдання.
+2	01.05.2025	0.2	Створено основні слайди презентації (див. додаток Б), створено додаток Б звіту.
+	01.05.2025	0.3	Створено код із прикладами реалізації, додано відповідні слайди (див. додатки Б, В)
+3	02.05.2025	0.4	Додано слайди з висновками та джерелами (див. додаток Б).
+4	02.05.2025	0.5	Створено відеозапис презентації (див. Додаток А), додано додаток А звіту.
+5	02.05.2025	0.6	Додано секції 3 та 4 звіту
+
+2 ЗАВДАННЯ
+
+	Завдання роботи є підготувати доповідь про один із патернів проектування ПЗ. Це включає наступні підзавдання:
+    1. Підготувати доповідь на тему: «Шаблон (патерн) проєктування ПЗ» (із книг: Ґамма, “ООП. Патерни проєктування”, GoF, крім патерна Singletone);
+    2. Створити та оформити слайди презентації доповіді;
+    3. Створити та опублікувати на YouTube відеозапис доповіді;
+    4. Оформити та завантажити на dl.nure.ua звіт до виконаної роботи;
+    5. При потребі створити та налаштувати у GitHub обліковий запис для облікового запису студента в домені @nure.ua;
+    6. Створити для виконання завдань з дисципліни GitHub репозиторій iз вказаним на https://dl.nure.ua іменем та з головною гілкою main;
+    7. Створити у корені створеного репозиторію файл README.md з вказаним далі змістом та вказані далі директорії для окремих завдань;
+    8. Експортувати звіт у файл у простому текстововому форматі та завантажити цей файл у директорію Pract1 у репозиторії GitHub;
+    9. Завантажити у вказану далі піддиректорію увесь програмний код, який розглядається у доповіді ПЗ1.
+
+3 ОПИС ВИКОНАНОЇ РОБОТИ
+
+	Для розгляду в доповіді було обрано шаблон проектування Observer (Спостерігач).
+Презентацію доповіді було зроблено за допомогою PowerPoint. Слайди презентації наведено в додатку Б. В презентації надано базову інформацію про шаблони проектування, а також опис, деталі, сценарії використання, переваги та недоліки шаблону Observer, приклади його реалізації та використання на мовах програмування C# та C++.
+По презентації було записано відеозапис, який було опубліковано на платформі YouTube (див. додаток А).
+
+4 ВИСНОВКИ
+
+В ході виконання практичного заняття було проведено огляд шаблонів проектування програмного забезпечення, а також детально досліджено шаблон проектування Observer. 
+За підготовленою презентацією було записано відео-звіт, який було розміщено на платформі YouTube.
+
+ДОДАТОК А
+Відеозапис
+
+Відеозапис доповіді: https://youtu.be/xmbYHtiHfD0
+
+Хронологічний опис відеозапису:
+00:00 Титульний слайд 
+00:17 Зміст 
+00:33 Вступ 
+01:04 Типи шаблонів проектування 
+01:29 Шаблон Observer 
+02:17 Структура шаблону Observer 
+03:16 Use Cases шаблону Observer 
+03:49 Переваги та недоліки шаблону Observer 
+04:50 Приклади реалізації 
+06:12 Реалізація шаблону Observer (C++) 
+06:56 Реалізація шаблону Observer (C#) 
+07:34 Висновки 
+08:16 Джерела
+
+ДОДАТОК Б
+Слайди презентації
+
+
+Рисунок Б.1 – Титульний слайд
+
+
+Рисунок Б.2 – Зміст презентації
+
+Рисунок Б.3 – Вступ
+
+
+Рисунок Б.4 – Вступ – про шаблони проектування
+
+
+Рисунок Б.5 – Вступ – типи шаблонів проектування
+
+
+Рисунок Б.6 – Шаблон Observer
+
+Рисунок Б.7 – Про шаблон Observer
+
+
+Рисунок Б.8 – Про шаблон Observer
+
+
+Рисунок Б.9 – Структура шаблону Observer
+
+
+Рисунок Б.10 – Сценарії використання шаблону Observer
+
+Рисунок Б.11 – Переваги та недоліки шаблону Observer
+
+
+Рисунок Б.12 – Приклади реалізації
+
+
+Рисунок Б.13 – Приклади існуючих реалізацій шаблону Observer в мовах програмування
+
+
+Рисунок Б.14 – Код реалізації шаблону Observer (С++)
+
+
+Рисунок Б.15 – Код використання реалізованого шаблону Observer (С++)
+
+
+Рисунок Б.16 – Код реалізації шаблону Observer (С#)
+
+
+Рисунок Б.17 – Код використання реалізованого шаблону Observer (С#)
+
+
+Рисунок Б.18 – Висновки
+
+Рисунок Б.19 – Висновки
+
+
+Рисунок Б.20 – Джерела
+
+
+Рисунок Б.20 – Джерела
+
+
+Рисунок Б.20 – Дякую за увагу
+
+ДОДАТОК В
+Код з презентації
+
+Файл Observer.cpp
+
+1  #include <iostream>
+2  #include <vector>
+3  #include <string>
+4  #include <memory>
+5  
+6  // Subscriber Interface
+7  class IObserver {
+8  public:
+9      virtual void update(float temperature) = 0;
+10      virtual ~IObserver() = default;
+11  };
+12  
+13  // Publisher
+14  class WeatherStation {
+15  private:
+16      std::vector<IObserver*> observers;
+17      float temperature = 0.0f;
+18  
+19  public:
+20      void addObserver(IObserver* observer) {
+21          observers.push_back(observer);
+22      }
+23  
+24      void removeObserver(IObserver* observer) {
+25          observers.erase(
+26              std::remove(observers.begin(), observers.end(), observer),
+27              observers.end()
+28          );
+29      }
+30  
+31      void setTemperature(float temp) {
+32          temperature = temp;
+33          notifyObservers();
+34      }
+35  
+36      void notifyObservers() {
+37          for (auto* obs : observers) {
+38              obs->update(temperature);
+39          }
+40      }
+41  };
+42  
+43  // Concrete Observer 1
+44  class PhoneDisplay : public IObserver {
+45  public:
+46      void update(float temperature) override {
+47          std::cout << "[Phone Display] Temperature updated: " 
+48              << temperature << "C\n";
+49      }
+50  };
+51  
+52  // Concrete Observer 2
+53  class LEDDisplay : public IObserver {
+54  public:
+55      void update(float temperature) override {
+56          std::cout << "[LED Display] Temperature updated: " 
+57              << temperature << "C\n";
+58      }
+59  };
+60  
+61  int main() {
+62      WeatherStation station;
+63  
+64      PhoneDisplay phone;
+65      LEDDisplay led;
+66  
+67      station.addObserver(&phone);
+68      station.addObserver(&led);
+69  
+70      station.setTemperature(25.3f);
+71      std::cout << "\n";
+72  
+73      station.setTemperature(26.7f);
+74      std::cout << "\n";
+75  
+76      station.removeObserver(&led);
+77      station.setTemperature(28.1f);
+78  
+79      return 0;
+80  }
+
+Файл Program.cs
+
+1  namespace Observer2
+2  {
+3      // Subscriber interface
+4      public interface IInvestor
+5      {
+6          void Update(Stock stock);
+7      }
+8  
+9      // Subject (Publisher)
+10      public class Stock
+11      {
+12          private readonly List<IInvestor> _investors = new();
+13          private decimal _price;
+14  
+15          public string Symbol { get; }
+16  
+17          public decimal Price
+18          {
+19              get => _price;
+20              set
+21              {
+22                  if (_price != value)
+23                  {
+24                      _price = value;
+25                      Notify();
+26                  }
+27              }
+28          }
+29  
+30          public Stock(string symbol, decimal initialPrice)
+31          {
+32              Symbol = symbol;
+33              _price = initialPrice;
+34          }
+35  
+36          public void Attach(IInvestor investor)
+37          {
+38              _investors.Add(investor);
+39          }
+40  
+41          public void Detach(IInvestor investor)
+42          {
+43              _investors.Remove(investor);
+44          }
+45  
+46          private void Notify()
+47          {
+48              foreach (var investor in _investors)
+49              {
+50                  investor.Update(this);
+51              }
+52          }
+53      }
+54  
+55      // Concrete Observer
+56      public class Investor : IInvestor
+57      {
+58          private readonly string _name;
+59  
+60          public Investor(string name)
+61          {
+62              _name = name;
+63          }
+64  
+65          public void Update(Stock stock)
+66          {
+67              Console.WriteLine($"[{_name}] Notified: " +
+68                  $"{stock.Symbol} is now {stock.Price:C}");
+69              // Additional logic: buy/sell/etc.
+70          }
+71      }
+72  
+73      // Client code
+74      public class Program
+75      {
+76          public static void Main()
+77          {
+78              Stock apple = new Stock("AAPL", 150.00m);
+79  
+80              Investor alice = new Investor("Alice");
+81              Investor bob = new Investor("Bob");
+82  
+83              apple.Attach(alice);
+84              apple.Attach(bob);
+85  
+86              apple.Price = 151.25m;
+87              Console.WriteLine();
+88              apple.Price = 153.00m;
+89              Console.WriteLine();
+90  
+91              apple.Detach(bob);
+92              apple.Price = 149.50m;
+93          }
+94      }
+95  }
+
+
